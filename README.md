@@ -1,17 +1,17 @@
-hiya~
+hiya 𓍢ִ໋🌷͙֒
 
 my name is ira or sometimes idleira on the internet ꒰ᐢ. .ᐢ꒱₊˚⊹
 
 ##
 #### about me
 
-🌸 i'm currently a student at [42 wolfsburg](https://42wolfsburg.de/) and plan on graduating by the end of 2024;
+📚 i'm currently a student at [42 wolfsburg](https://42wolfsburg.de/) and plan on graduating by the end of 2024;
 
-🌸 i transitioned from studying engineering to pursuing software development and am thoroughly enjoying it;
+✨ i transitioned from studying engineering to pursuing software development and am thoroughly enjoying it;
 
-🌸 at the moment i am studying mostly c/c++;
+🖥️ at the moment i am studying mostly c/c++;
 
-🌸 i've developed a keen interest in front-end and game development since starting my coding journey;
+🍀 i've developed a keen interest in front-end and game development since starting my coding journey;
 
 ##
 #### my recent projects:
