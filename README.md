@@ -5,7 +5,7 @@ my name is ira or sometimes idleira on the internet ꒰ᐢ. .ᐢ꒱₊˚⊹
 ##
 #### about me
 
-🌸 i'm a software engineering student at [42 wolfsburg](https://42wolfsburg.de/) and plan on graduating by the end of 2024;
+🌸 i'm currently a student at [42 wolfsburg](https://42wolfsburg.de/) and plan on graduating by the end of 2024;
 
 🌸 i transitioned from studying engineering to pursuing software development and am thoroughly enjoying it;
 
