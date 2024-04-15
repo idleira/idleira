@@ -14,7 +14,7 @@ my name is ira or sometimes idleira on the internet ꒰ᐢ. .ᐢ꒱₊˚⊹
 🍀 i've developed a keen interest in front-end and game development since starting my coding journey;
 
 ##
-#### my recent projects:
+#### my favorite recent projects:
 
 🐇 [so_long](https://github.com/idleira/so_long) - a small 2d game in c, developed using minilibx | 42
 
