@@ -22,7 +22,7 @@ my name is ira or sometimes idleira on the internet ꒰ᐢ. .ᐢ꒱₊˚⊹
 
 💬 [ft_printf](https://github.com/idleira/ft_printf) - c library's printf recoded from scratch | 42
 
-→ currently working on *rank 02 exam* and *rank 03 minishell*
+→ currently working on *CPP modules 00 - 04* and *exam rank 03*
 
 ##
 
