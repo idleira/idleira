@@ -1,4 +1,4 @@
-hiya 𓍢ִ໋🌷͙֒
+hiya 🌷͙֒ 
 
 my name is ira or sometimes idleira on the internet ꒰ᐢ. .ᐢ꒱₊˚⊹
 
